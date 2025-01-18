@@ -1,0 +1,5 @@
+transformers
+openai
+tweepy
+web3
+Flask
