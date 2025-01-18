@@ -2,6 +2,9 @@
 
 Welcome to the LOOTY AI Project! This project aims to build a fully autonomous AI agent to manage the LOOTY NFT brand's social media, content creation, cryptocurrency/NFT promotion, and community engagement.
 
+## Project info:
+![Screenshot](src/Screenshot_18-1-2025_20345_www.upwork.com.jpeg)
+
 ## Project Overview
 
 The LOOTY AI is designed to:
